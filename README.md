@@ -3,7 +3,7 @@ This repo is dedicated to posting random notes and reports on cybersecurity rela
 
 # Topics Covered in this Repo include:
 - How to create a bad usd (cheap version of the USB Rubber Ducky)
-- How to use deepbluecli to investigate Windows Event Logs
+- How to use deepbluecli and Hayabusa to investigate Windows Event Logs
 - Analysing an email using PhishTool among other things
 - Setting up elk in the cloud for free
 - Adding the Maxmind GeoIP databases to Wireshark for Geolocation information
