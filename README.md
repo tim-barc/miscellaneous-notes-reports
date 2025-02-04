@@ -9,3 +9,4 @@ This repo is dedicated to posting random notes and reports on cybersecurity rela
 - Adding the Maxmind GeoIP databases to Wireshark for Geolocation information
 - Creating basic YARA rules for malware analysis and detection
 - Analysing Malicious Word Documents
+- Investigating Cisco firewall logs
