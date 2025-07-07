@@ -1,10 +1,10 @@
-Commonwealth Bank Introduction to Cybersecurity – Forage Job Simulation
+#### Commonwealth Bank Introduction to Cybersecurity – Forage Job Simulation
 
 This repository contains all deliverables and outputs from the Commonwealth Bank Introduction to Cybersecurity virtual job simulation, hosted on The Forage. This program offers a hands-on, practical introduction to key cybersecurity functions and stands out for its focus on real-world tools and workflows.
 What You'll Find in This Repository
 
 The simulation is divided into four core tasks:
-Task 1 – Fraud Detection in Splunk
+# Task 1 – Fraud Detection in Splunk
 
     Objective: Build fraud detection dashboards using Splunk.
 
@@ -16,7 +16,7 @@ Task 1 – Fraud Detection in Splunk
 
     Outcome: Learn to detect suspicious patterns in transaction data using SIEM tools.
 
-Task 2 – Incident Triage
+# Task 2 – Incident Triage
 
     Objective: Perform initial triage of a simulated security incident.
 
@@ -28,7 +28,7 @@ Task 2 – Incident Triage
 
     Outcome: Develop foundational skills in incident response and analysis.
 
-Task 3 – Password Security Infographic
+# Task 3 – Password Security Infographic
 
     Objective: Design an infographic to promote strong password hygiene within an organisation.
 
@@ -40,7 +40,7 @@ Task 3 – Password Security Infographic
 
     Outcome: Reinforce the importance of strong passwords and user education.
 
-Task 4 – Penetration Testing Report
+# Task 4 – Penetration Testing Report
 
     Objective: Document and report findings from a basic web application CTF challenge (HackThisSite).
 
@@ -52,7 +52,7 @@ Task 4 – Penetration Testing Report
 
     Outcome: Simulate writing a real-world penetration testing report.
 
-Key Takeaways
+### Key Takeaways
 
 Compared to other virtual internships, this simulation was highly practical and hands-on. It strengthened my technical skills across a range of domains, from threat detection to user awareness and technical reporting.
 About the Program
