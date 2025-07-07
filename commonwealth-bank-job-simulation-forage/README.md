@@ -1,4 +1,4 @@
-#### Commonwealth Bank Introduction to Cybersecurity – Forage Job Simulation
+### Commonwealth Bank Introduction to Cybersecurity – Forage Job Simulation
 
 This repository contains all deliverables and outputs from the Commonwealth Bank Introduction to Cybersecurity virtual job simulation, hosted on The Forage. This program offers a hands-on, practical introduction to key cybersecurity functions and stands out for its focus on real-world tools and workflows.
 What You'll Find in This Repository
@@ -62,8 +62,9 @@ About the Program
     Platform: The Forage
 
     Focus Areas: Cybersecurity operations, fraud analysis, security awareness, and penetration testing fundamentals
+    
 
-Contact
+### Contact
 
 If you have any questions about the tasks or want to collaborate on similar projects, feel free to connect:
 
