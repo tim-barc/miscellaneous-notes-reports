@@ -69,5 +69,5 @@ About the Program
 If you have any questions about the tasks or want to collaborate on similar projects, feel free to connect:
 
 Tim Barclay
-Email: [timbarc@oroton.me]
-LinkedIn: [https://www.linkedin.com/in/timbarc/]
+[Email](timbarc@oroton.me)
+[LinkedIn](https://www.linkedin.com/in/timbarc/)
