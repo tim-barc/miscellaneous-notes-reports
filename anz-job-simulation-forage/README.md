@@ -1,13 +1,11 @@
 ### ANZ Cyber Security Management – Forage Job Simulation
 
 This repository contains all deliverables and outputs from the **ANZ Cyber Security Management** virtual job simulation, hosted on **The Forage**. This program offers a highly practical introduction to real-world cybersecurity analysis, with a strong emphasis on email analysis and network forensics. 
----
 
 ### What You'll Find in This Repository
 
 The simulation is broken down into two major tasks. 
 
----
 
 ## Task 1 – Email Threat Analysis
 
