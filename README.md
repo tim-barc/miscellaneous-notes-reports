@@ -10,4 +10,5 @@ This repo is dedicated to posting random notes and reports on cybersecurity rela
 - Creating basic YARA rules for malware analysis and detection
 - Analysing Malicious Word Documents
 - Investigating Cisco firewall logs
-- Triaging phishing alerts through TryHackMe SOC simulator 
+- Triaging phishing alerts through TryHackMe SOC simulator
+- How to create a timeline from a memory dump
