@@ -12,3 +12,4 @@ This repo is dedicated to posting random notes and reports on cybersecurity rela
 - Investigating Cisco firewall logs
 - Triaging phishing alerts through TryHackMe SOC simulator
 - How to create a timeline from a memory dump
+- Evidence of execution artifacts on a Windows system
